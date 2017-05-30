@@ -5,7 +5,7 @@
 Статы отражены в отдельном окне., в зависимости от типа оружия, вещей - изменяются.</br>
 <hr>
 
-<button>Посмотреть</button>
+<div style="color: red">Посмотреть</div>
 https://meddokss.github.io/HEROGAME
 
 ## Development server
